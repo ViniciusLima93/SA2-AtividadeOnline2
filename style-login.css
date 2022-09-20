@@ -1,0 +1,38 @@
+.Letra {
+    font-family: 'Audiowide';
+    src: url('https://fonts.googleapis.com/css?family=Audiowide');
+    font-style: italic;
+    text-align: center;
+
+    
+}
+.Corpo {
+    
+    background-color: rgb(12,39,64);
+    min-height: 100%;
+    
+}
+
+.Logo {
+    display: flex;
+    border: 0.2rem dotted blue;
+    min-width: 50%;
+    max-height: 100%;
+}
+
+.Position {
+    text-align: center;
+    margin-top: -40rem;
+    margin-left: 30rem;
+    padding: 37rem 8rem 3rem 4rem;
+}
+
+.Box {
+    background-color: rgb(206, 220, 234);
+    width: 30%;
+    margin-top: -30rem;
+    margin-left: 40%;
+    border-radius: 4rem;
+    padding: 1rem 2rem;
+    border: outset #f33;
+}
